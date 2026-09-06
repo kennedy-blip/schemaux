@@ -3,4 +3,4 @@ run . . . . .
 dev . . . . .
 npm 
 install
-b
+bu
