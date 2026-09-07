@@ -4,4 +4,4 @@ dev . . . . .
 npm 
 install
 build . .
-g
+gi
