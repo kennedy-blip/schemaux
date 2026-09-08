@@ -5,4 +5,4 @@ npm
 install
 build . .
 git . . . . .
-fix . . 
+fix . . .
