@@ -6,4 +6,4 @@ install
 build . .
 git . . . . .
 fix . . . .
-erro
+error
