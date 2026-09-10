@@ -7,4 +7,4 @@ build . .
 git . . . . .
 fix . . . .
 errors . .
-git clea
+git clear
