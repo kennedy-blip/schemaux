@@ -7,4 +7,4 @@ build . .
 git . . . . .
 fix . . . .
 errors . .
-git clear cac
+git clear cach
